@@ -146,3 +146,8 @@ Here are the most important rules
   * `super` is one possible exception
 * **Do** use parens for every method except for DSLs (and a small list of other common methods)
   * `attr_reader`, `puts`, `require`, `include`, `it`, `has_many`, ...
+  
+  
+**Lab**
+
+Create a method that asks the user to enter their name and displays a greeting that includes the entered name. (ex: Welcome, Maha!)
