@@ -148,6 +148,6 @@ Here are the most important rules
   * `attr_reader`, `puts`, `require`, `include`, `it`, `has_many`, ...
   
   
-**Lab**
+### Lab
 
 Create a method that asks the user to enter their name and displays a greeting that includes the entered name. (ex: Welcome, Maha!)
